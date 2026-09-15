@@ -24,7 +24,7 @@ The Angular side of the project is continuously evolving as new features are imp
 * Angular 20
 * TypeScript
 * HTML5 / CSS / SCSS
-* Bootstrap
+* Tailwind
 * RxJS
 
 ### Backend
